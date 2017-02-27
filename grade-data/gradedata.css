@@ -16,6 +16,30 @@ ul.share-buttons li{
 ul.share-buttons img{
   width: 32px;
 }
+#emerald{
+	width: 33px;
+	height:33px;
+}
+
+
+#twitter{
+	width: 60px;
+	height: 60px;
+}
+
+#facebook{
+	width: 35px;
+	height: 35px;
+}
+
+#twitter:hover {
+    -webkit-filter: brightness(150%);
+}
+
+ul.share-buttons img:hover{
+  -webkit-filter: brightness(150%);
+}
+
 header h1{
 	color: #000000;
 	font-family: 'Exo', sans-serif;
