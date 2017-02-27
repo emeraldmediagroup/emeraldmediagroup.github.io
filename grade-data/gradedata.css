@@ -9,7 +9,12 @@ div{
 	
 
 }
-
+h3{
+	color: #000000;
+	font-family: 'Exo', sans-serif;
+	font-size:30px;
+	
+}
 .jumbotron{
 	background-image:url("emeraldGradeDataDoodle.png");
 	background-image:contain;
