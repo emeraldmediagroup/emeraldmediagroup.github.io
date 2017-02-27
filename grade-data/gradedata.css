@@ -16,6 +16,9 @@ ul.share-buttons li{
 ul.share-buttons img{
   width: 32px;
 }
+#buttons{
+	text-align:right;
+}
 #emerald{
 	width: 33px;
 	height:33px;
