@@ -21,7 +21,10 @@ p{
   font-family: 'Roboto Condensed', sans-serif;
 
 }
-
+figcaption{
+  font-family: 'Amatic SC', cursive;
+  font-size:30px;
+}
 h3{
 
   font-family: 'Amatic SC', cursive;
